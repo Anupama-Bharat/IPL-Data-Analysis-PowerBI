@@ -6,6 +6,7 @@ This repository contains a **comprehensive IPL Data Analysis project (2008–202
 It is designed to showcase **end-to-end data analytics and dashboarding skills**, covering all 17 seasons of the Indian Premier League (IPL).  
 
 
+Dataset link :- <a href = "https://github.com/Anupama-Bharat/IPL-Data-Analysis-PowerBI" >
 
 The project provides actionable insights into IPL matches, teams, and players through **interactive dashboards, advanced DAX measures, and professional design best practices**.  
 
